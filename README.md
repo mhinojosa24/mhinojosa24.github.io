@@ -11,12 +11,13 @@ Welcome to my repo with all my lovely projects!
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Finish my Computer Science Bachelors Degree 
+- Taking online courses while attending Dominican University of California
 
 #### :muscle: Things I am challenging myself with:
-
+- Taking a deep dive into Swift architecture and dynamic programming 
+- Building a side project for the skateboarding community 
+ 
 
 #### :computer: Programming languages and tools: 
 <p>
